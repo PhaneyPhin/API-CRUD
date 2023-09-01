@@ -1,0 +1,16 @@
+{
+    "name": "phaney/api-crud",
+    "autoload": {
+        "psr-4": {
+            "Phaney\\ApiCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Phaney"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^10.0"
+    }
+}
